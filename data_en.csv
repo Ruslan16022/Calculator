@@ -1,0 +1,854 @@
+Barrens Hunter,0,0,0,0
+Barrens Hunter,1,20,100,6
+Barrens Hunter,2,40,200,8
+Barrens Hunter,3,50,300,10
+Barrens Hunter,4,60,350,13
+Barrens Hunter,5,70,400,15
+Barrens Hunter,6,90,450,18
+Barrens Hunter,7,110,550,20
+Barrens Hunter,8,130,650,23
+Barrens Hunter,9,150,750,25
+Barrens Hunter,10,160,850,27
+Barrens Hunter,11,230,1900,30
+Barrens Hunter,12,240,2000,32
+Barrens Hunter,13,330,2800,35
+Barrens Hunter,14,340,2900,37
+Barrens Hunter,15,410,3500,40
+Barrens Hunter,16,420,3600,42
+Barrens Hunter,17,520,4400,45
+Barrens Hunter,18,530,4500,47
+Barrens Hunter,19,580,4900,49
+Barrens Hunter,20,650,5500,52
+Barrens Hunter,21,690,8650,54
+Barrens Hunter,22,730,9150,57
+Barrens Hunter,23,780,9700,59
+Barrens Hunter,24,820,10300,62
+Barrens Hunter,25,870,10900,64
+Barrens Hunter,26,930,13900,67
+Barrens Hunter,27,980,14700,69
+Barrens Hunter,28,1040,15600,71
+Barrens Hunter,29,1100,16550,74
+Barrens Hunter,30,1170,17550,76
+Barrens Hunter,31,1220,21300,79
+Barrens Hunter,32,1280,22350,81
+Barrens Hunter,33,1340,23500,84
+Barrens Hunter,34,1410,24650,86
+Barrens Hunter,35,1480,25900,88
+Barrens Hunter,36,1560,31050,91
+Barrens Hunter,37,1640,32600,93
+Barrens Hunter,38,1720,34250,96
+Barrens Hunter,39,1800,35950,98
+Barrens Hunter,40,1890,37750,101
+Barrens Hunter,41,1970,44200,103
+Barrens Hunter,42,2050,45950,106
+Barrens Hunter,43,2130,47800,108
+Barrens Hunter,44,2220,49700,110
+Barrens Hunter,45,2310,51700,113
+Barrens Hunter,46,2400,59750,115
+Barrens Hunter,47,2490,62150,118
+Barrens Hunter,48,2590,64650,120
+Barrens Hunter,49,2700,67200,123
+Barrens Hunter,50,2810,69900,125
+Barrens Hunter,51,2890,79200,128
+Barrens Hunter,52,2980,81600,130
+Barrens Hunter,53,2990,81700,132
+Barrens Hunter,54,3160,86550,135
+Barrens Hunter,55,3170,86650,137
+Barrens Hunter,56,3350,100200,140
+Barrens Hunter,57,3360,100300,142
+Barrens Hunter,58,3560,106300,145
+Barrens Hunter,59,3570,106400,147
+Barrens Hunter,60,3770,112750,150
+Survival Expert,0,0,0,0
+Survival Expert,1,50,250,10
+Survival Expert,2,60,350,12
+Survival Expert,3,60,350,14
+Survival Expert,4,70,400,17
+Survival Expert,5,90,450,19
+Survival Expert,6,110,550,21
+Survival Expert,7,130,650,24
+Survival Expert,8,150,750,26
+Survival Expert,9,190,1600,28
+Survival Expert,10,230,1900,31
+Survival Expert,11,270,2300,33
+Survival Expert,12,330,2800,36
+Survival Expert,13,370,3100,38
+Survival Expert,14,410,3500,40
+Survival Expert,15,460,3900,43
+Survival Expert,16,520,4400,45
+Survival Expert,17,530,4500,47
+Survival Expert,18,650,5500,50
+Survival Expert,19,660,5600,52
+Survival Expert,20,730,9150,55
+Survival Expert,21,740,9250,57
+Survival Expert,22,780,9700,59
+Survival Expert,23,820,10300,62
+Survival Expert,24,870,10900,64
+Survival Expert,25,930,13900,66
+Survival Expert,26,980,14700,69
+Survival Expert,27,1040,15600,71
+Survival Expert,28,1100,16550,74
+Survival Expert,29,1170,17550,76
+Survival Expert,30,1220,21300,78
+Survival Expert,31,1280,22350,81
+Survival Expert,32,1340,23500,83
+Survival Expert,33,1410,24650,85
+Survival Expert,34,1480,25900,88
+Survival Expert,35,1560,31050,90
+Survival Expert,36,1640,32600,93
+Survival Expert,37,1720,34250,95
+Survival Expert,38,1730,34350,97
+Survival Expert,39,1890,37750,100
+Survival Expert,40,1900,37850,102
+Survival Expert,41,1970,44200,104
+Survival Expert,42,2050,45950,107
+Survival Expert,43,2130,47800,109
+Survival Expert,44,2220,49700,112
+Survival Expert,45,2310,51700,114
+Survival Expert,46,2400,59750,116
+Survival Expert,47,2490,62150,119
+Survival Expert,48,2590,64650,121
+Survival Expert,49,2700,67200,123
+Survival Expert,50,2810,69900,126
+Survival Expert,51,2890,79200,128
+Survival Expert,52,2980,81600,131
+Survival Expert,53,3070,84050,133
+Survival Expert,54,3160,86550,135
+Survival Expert,55,3250,89150,138
+Survival Expert,56,3350,100200,140
+Survival Expert,57,3360,100300,142
+Survival Expert,58,3560,106300,145
+Survival Expert,59,3570,106400,147
+Survival Expert,60,3770,112750,150
+Durable Armor,0,0,0,0
+Durable Armor,1,60,300,14
+Durable Armor,2,70,400,16
+Durable Armor,3,90,450,18
+Durable Armor,4,110,550,20
+Durable Armor,5,130,650,23
+Durable Armor,6,150,750,25
+Durable Armor,7,160,850,27
+Durable Armor,8,230,1900,30
+Durable Armor,9,240,2000,32
+Durable Armor,10,270,2300,34
+Durable Armor,11,330,2800,37
+Durable Armor,12,370,3100,39
+Durable Armor,13,410,3500,41
+Durable Armor,14,460,3900,43
+Durable Armor,15,520,4400,46
+Durable Armor,16,580,4900,48
+Durable Armor,17,650,5500,50
+Durable Armor,18,690,8650,53
+Durable Armor,19,730,9150,55
+Durable Armor,20,740,9250,57
+Durable Armor,21,820,10300,60
+Durable Armor,22,830,10400,62
+Durable Armor,23,870,10900,64
+Durable Armor,24,930,13900,67
+Durable Armor,25,980,14700,69
+Durable Armor,26,1040,15600,71
+Durable Armor,27,1100,16550,73
+Durable Armor,28,1170,17550,76
+Durable Armor,29,1220,21300,78
+Durable Armor,30,1280,22350,80
+Durable Armor,31,1340,23500,83
+Durable Armor,32,1410,24650,85
+Durable Armor,33,1420,24750,87
+Durable Armor,34,1560,31050,90
+Durable Armor,35,1570,31150,92
+Durable Armor,36,1640,32600,94
+Durable Armor,37,1720,34250,96
+Durable Armor,38,1800,35950,99
+Durable Armor,39,1890,37750,101
+Durable Armor,40,1970,44200,103
+Durable Armor,41,2050,45950,106
+Durable Armor,42,2130,47800,108
+Durable Armor,43,2220,49700,110
+Durable Armor,44,2310,51700,113
+Durable Armor,45,2400,59750,115
+Durable Armor,46,2410,59850,117
+Durable Armor,47,2590,64650,120
+Durable Armor,48,2600,64750,122
+Durable Armor,49,2700,67200,124
+Durable Armor,50,2810,69900,126
+Durable Armor,51,2890,79200,129
+Durable Armor,52,2980,81600,131
+Durable Armor,53,3070,84050,133
+Durable Armor,54,3160,86550,136
+Durable Armor,55,3250,89150,138
+Durable Armor,56,3350,100200,140
+Durable Armor,57,3450,103200,143
+Durable Armor,58,3560,106300,145
+Durable Armor,59,3570,106400,147
+Durable Armor,60,3770,112750,150
+Lethal Wounds,0,0,0,0
+Lethal Wounds,1,110,500,18
+Lethal Wounds,2,130,650,20
+Lethal Wounds,3,140,750,22
+Lethal Wounds,4,150,750,24
+Lethal Wounds,5,190,900,26
+Lethal Wounds,6,230,1900,29
+Lethal Wounds,7,270,2300,31
+Lethal Wounds,8,330,2800,33
+Lethal Wounds,9,390,3350,35
+Lethal Wounds,10,440,3750,38
+Lethal Wounds,11,490,4200,40
+Lethal Wounds,12,500,4300,42
+Lethal Wounds,13,550,4700,44
+Lethal Wounds,14,620,5250,47
+Lethal Wounds,15,700,5900,49
+Lethal Wounds,16,780,6600,51
+Lethal Wounds,17,830,10350,53
+Lethal Wounds,18,880,11000,56
+Lethal Wounds,19,930,11650,58
+Lethal Wounds,20,990,12350,60
+Lethal Wounds,21,1000,12450,62
+Lethal Wounds,22,1050,13100,64
+Lethal Wounds,23,1110,16650,67
+Lethal Wounds,24,1180,17650,69
+Lethal Wounds,25,1250,18750,71
+Lethal Wounds,26,1330,19850,73
+Lethal Wounds,27,1410,21050,76
+Lethal Wounds,28,1460,25550,78
+Lethal Wounds,29,1540,26850,80
+Lethal Wounds,30,1550,26950,82
+Lethal Wounds,31,1700,29600,85
+Lethal Wounds,32,1710,29700,87
+Lethal Wounds,33,1780,31050,89
+Lethal Wounds,34,1870,37300,91
+Lethal Wounds,35,1960,39150,94
+Lethal Wounds,36,2060,41100,96
+Lethal Wounds,37,2170,43150,98
+Lethal Wounds,38,2270,45350,100
+Lethal Wounds,39,2360,53050,103
+Lethal Wounds,40,2460,55150,105
+Lethal Wounds,41,2470,55250,107
+Lethal Wounds,42,2560,57350,109
+Lethal Wounds,43,2660,59650,111
+Lethal Wounds,44,2770,62050,114
+Lethal Wounds,45,2880,71700,116
+Lethal Wounds,46,2990,74600,118
+Lethal Wounds,47,3110,77550,120
+Lethal Wounds,48,3240,80650,123
+Lethal Wounds,49,3370,83900,125
+Lethal Wounds,50,3380,84000,127
+Lethal Wounds,51,3470,95050,129
+Lethal Wounds,52,3570,97900,132
+Lethal Wounds,53,3680,100850,134
+Lethal Wounds,54,3790,103850,136
+Lethal Wounds,55,3910,107000,138
+Lethal Wounds,56,4020,120200,141
+Lethal Wounds,57,4140,123850,143
+Lethal Wounds,58,4270,127550,145
+Lethal Wounds,59,4280,127650,147
+Lethal Wounds,60,4530,135300,150
+Bulletproof,0,0,0,0
+Bulletproof,1,110,500,22
+Bulletproof,2,130,650,24
+Bulletproof,3,150,750,26
+Bulletproof,4,190,1600,28
+Bulletproof,5,230,1900,30
+Bulletproof,6,240,2000,32
+Bulletproof,7,330,2800,35
+Bulletproof,8,340,2900,37
+Bulletproof,9,370,3100,39
+Bulletproof,10,410,3500,41
+Bulletproof,11,460,3900,43
+Bulletproof,12,520,4400,45
+Bulletproof,13,580,4900,48
+Bulletproof,14,650,5500,50
+Bulletproof,15,660,5600,52
+Bulletproof,16,690,8650,54
+Bulletproof,17,730,9150,56
+Bulletproof,18,780,9700,58
+Bulletproof,19,820,10300,61
+Bulletproof,20,870,10900,63
+Bulletproof,21,930,13900,65
+Bulletproof,22,940,14000,67
+Bulletproof,23,980,14700,69
+Bulletproof,24,1040,15600,71
+Bulletproof,25,1100,16550,74
+Bulletproof,26,1170,17550,76
+Bulletproof,27,1220,21300,78
+Bulletproof,28,1280,22350,80
+Bulletproof,29,1290,22450,82
+Bulletproof,30,1340,23500,84
+Bulletproof,31,1410,24650,87
+Bulletproof,32,1480,25900,89
+Bulletproof,33,1560,31050,91
+Bulletproof,34,1640,32600,93
+Bulletproof,35,1720,34250,95
+Bulletproof,36,1730,34350,97
+Bulletproof,37,1890,37750,100
+Bulletproof,38,1900,37850,102
+Bulletproof,39,1970,44200,104
+Bulletproof,40,2050,45950,106
+Bulletproof,41,2130,47800,108
+Bulletproof,42,2220,49700,110
+Bulletproof,43,2310,51700,113
+Bulletproof,44,2400,59750,115
+Bulletproof,45,2410,59850,117
+Bulletproof,46,2490,62150,119
+Bulletproof,47,2590,64650,121
+Bulletproof,48,2700,67200,123
+Bulletproof,49,2810,69900,126
+Bulletproof,50,2890,79200,128
+Bulletproof,51,2980,81600,130
+Bulletproof,52,2990,81700,132
+Bulletproof,53,3070,84050,134
+Bulletproof,54,3160,86550,136
+Bulletproof,55,3250,89150,139
+Bulletproof,56,3350,100200,141
+Bulletproof,57,3450,103200,143
+Bulletproof,58,3560,106300,145
+Bulletproof,59,3570,106400,147
+Bulletproof,60,3770,112750,150
+Damage Amplification,0,0,0,0
+Damage Amplification,1,150,750,26
+Damage Amplification,2,190,1600,28
+Damage Amplification,3,230,1900,30
+Damage Amplification,4,240,2000,32
+Damage Amplification,5,270,2300,34
+Damage Amplification,6,330,2800,36
+Damage Amplification,7,370,3100,38
+Damage Amplification,8,410,3500,40
+Damage Amplification,9,420,3600,42
+Damage Amplification,10,460,3900,44
+Damage Amplification,11,520,4400,47
+Damage Amplification,12,580,4900,49
+Damage Amplification,13,650,5500,51
+Damage Amplification,14,690,8650,53
+Damage Amplification,15,730,9150,55
+Damage Amplification,16,740,9250,57
+Damage Amplification,17,780,9700,59
+Damage Amplification,18,820,10300,61
+Damage Amplification,19,870,10900,63
+Damage Amplification,20,930,13900,65
+Damage Amplification,21,980,14700,68
+Damage Amplification,22,1040,15600,70
+Damage Amplification,23,1050,15700,72
+Damage Amplification,24,1100,16550,74
+Damage Amplification,25,1170,17550,76
+Damage Amplification,26,1220,21300,78
+Damage Amplification,27,1280,22350,80
+Damage Amplification,28,1290,22450,82
+Damage Amplification,29,1340,23500,84
+Damage Amplification,30,1410,24650,86
+Damage Amplification,31,1480,25900,89
+Damage Amplification,32,1560,31050,91
+Damage Amplification,33,1640,32600,93
+Damage Amplification,34,1720,34250,95
+Damage Amplification,35,1730,34350,97
+Damage Amplification,36,1800,35950,99
+Damage Amplification,37,1890,37750,101
+Damage Amplification,38,1970,44200,103
+Damage Amplification,39,2050,45950,105
+Damage Amplification,40,2060,46050,107
+Damage Amplification,41,2220,49700,110
+Damage Amplification,42,2230,49800,112
+Damage Amplification,43,2310,51700,114
+Damage Amplification,44,2400,59750,116
+Damage Amplification,45,2490,62150,118
+Damage Amplification,46,2590,64650,120
+Damage Amplification,47,2600,64750,122
+Damage Amplification,48,2700,67200,124
+Damage Amplification,49,2810,69900,126
+Damage Amplification,50,2890,79200,128
+Damage Amplification,51,2980,81600,131
+Damage Amplification,52,3070,84050,133
+Damage Amplification,53,3160,86550,135
+Damage Amplification,54,3170,86650,137
+Damage Amplification,55,3250,89150,139
+Damage Amplification,56,3350,100200,141
+Damage Amplification,57,3450,103200,143
+Damage Amplification,58,3560,106300,145
+Damage Amplification,59,3570,106400,147
+Damage Amplification,60,3770,112750,150
+Sturdy Defence,0,0,0,0
+Sturdy Defence,1,230,1900,30
+Sturdy Defence,2,240,2000,32
+Sturdy Defence,3,270,2300,34
+Sturdy Defence,4,330,2800,36
+Sturdy Defence,5,370,3100,38
+Sturdy Defence,6,410,3500,40
+Sturdy Defence,7,420,3600,42
+Sturdy Defence,8,460,3900,44
+Sturdy Defence,9,520,4400,46
+Sturdy Defence,10,580,4900,48
+Sturdy Defence,11,650,5500,50
+Sturdy Defence,12,660,5600,52
+Sturdy Defence,13,690,8650,54
+Sturdy Defence,14,730,9150,56
+Sturdy Defence,15,780,9700,58
+Sturdy Defence,16,820,10300,60
+Sturdy Defence,17,830,10400,62
+Sturdy Defence,18,870,10900,64
+Sturdy Defence,19,930,13900,66
+Sturdy Defence,20,980,14700,68
+Sturdy Defence,21,1040,15600,70
+Sturdy Defence,22,1050,15700,72
+Sturdy Defence,23,1100,16550,74
+Sturdy Defence,24,1170,17550,76
+Sturdy Defence,25,1220,21300,78
+Sturdy Defence,26,1280,22350,80
+Sturdy Defence,27,1290,22450,82
+Sturdy Defence,28,1340,23500,84
+Sturdy Defence,29,1410,24650,86
+Sturdy Defence,30,1480,25900,88
+Sturdy Defence,31,1560,31050,91
+Sturdy Defence,32,1640,32600,93
+Sturdy Defence,33,1720,34250,95
+Sturdy Defence,34,1730,34350,97
+Sturdy Defence,35,1800,35950,99
+Sturdy Defence,36,1890,37750,101
+Sturdy Defence,37,1970,44200,103
+Sturdy Defence,38,2050,45950,105
+Sturdy Defence,39,2060,46050,107
+Sturdy Defence,40,2130,47800,109
+Sturdy Defence,41,2220,49700,111
+Sturdy Defence,42,2310,51700,113
+Sturdy Defence,43,2400,59750,115
+Sturdy Defence,44,2410,59850,117
+Sturdy Defence,45,2490,62150,119
+Sturdy Defence,46,2590,64650,121
+Sturdy Defence,47,2700,67200,123
+Sturdy Defence,48,2810,69900,125
+Sturdy Defence,49,2820,70000,127
+Sturdy Defence,50,2890,79200,129
+Sturdy Defence,51,2980,81600,131
+Sturdy Defence,52,3070,84050,133
+Sturdy Defence,53,3160,86550,135
+Sturdy Defence,54,3170,86650,137
+Sturdy Defence,55,3250,89150,139
+Sturdy Defence,56,3350,100200,141
+Sturdy Defence,57,3450,103200,143
+Sturdy Defence,58,3560,106300,145
+Sturdy Defence,59,3570,106400,147
+Sturdy Defence,60,3770,112750,150
+Mechanical Modification,0,0,0,0
+Mechanical Modification,1,230,1900,32
+Mechanical Modification,2,270,2300,34
+Mechanical Modification,3,330,2800,36
+Mechanical Modification,4,370,3100,38
+Mechanical Modification,5,410,3500,40
+Mechanical Modification,6,420,3600,42
+Mechanical Modification,7,460,3900,44
+Mechanical Modification,8,520,4400,46
+Mechanical Modification,9,580,4900,48
+Mechanical Modification,10,650,5500,50
+Mechanical Modification,11,660,5600,52
+Mechanical Modification,12,690,8650,54
+Mechanical Modification,13,730,9150,56
+Mechanical Modification,14,780,9700,58
+Mechanical Modification,15,820,10300,60
+Mechanical Modification,16,830,10400,62
+Mechanical Modification,17,870,10900,64
+Mechanical Modification,18,930,13900,66
+Mechanical Modification,19,980,14700,68
+Mechanical Modification,20,1040,15600,70
+Mechanical Modification,21,1050,15700,72
+Mechanical Modification,22,1100,16550,74
+Mechanical Modification,23,1170,17550,76
+Mechanical Modification,24,1220,21300,78
+Mechanical Modification,25,1280,22350,80
+Mechanical Modification,26,1290,22450,82
+Mechanical Modification,27,1340,23500,84
+Mechanical Modification,28,1410,24650,86
+Mechanical Modification,29,1480,25900,88
+Mechanical Modification,30,1560,31050,90
+Mechanical Modification,31,1570,31150,92
+Mechanical Modification,32,1640,32600,94
+Mechanical Modification,33,1720,34250,96
+Mechanical Modification,34,1800,35950,98
+Mechanical Modification,35,1890,37750,100
+Mechanical Modification,36,1900,37850,102
+Mechanical Modification,37,1970,44200,104
+Mechanical Modification,38,2050,45950,106
+Mechanical Modification,39,2130,47800,108
+Mechanical Modification,40,2220,49700,110
+Mechanical Modification,41,2230,49800,112
+Mechanical Modification,42,2310,51700,114
+Mechanical Modification,43,2400,59750,116
+Mechanical Modification,44,2490,62150,118
+Mechanical Modification,45,2590,64650,120
+Mechanical Modification,46,2600,64750,122
+Mechanical Modification,47,2700,67200,124
+Mechanical Modification,48,2810,69900,126
+Mechanical Modification,49,2890,79200,128
+Mechanical Modification,50,2980,81600,130
+Mechanical Modification,51,2990,81700,132
+Mechanical Modification,52,3070,84050,134
+Mechanical Modification,53,3160,86550,136
+Mechanical Modification,54,3250,89150,138
+Mechanical Modification,55,3350,100200,140
+Mechanical Modification,56,3360,100300,142
+Mechanical Modification,57,3450,103200,144
+Mechanical Modification,58,3560,106300,146
+Mechanical Modification,59,3660,109450,148
+Mechanical Modification,60,3770,112750,150
+Skilled,0,0,0,0
+Skilled,1,410,3500,34
+Skilled,2,490,4200,35
+Skilled,3,500,4300,37
+Skilled,4,550,4700,39
+Skilled,5,620,5250,41
+Skilled,6,690,5900,43
+Skilled,7,780,6600,45
+Skilled,8,790,6700,47
+Skilled,9,870,7400,49
+Skilled,10,980,8300,51
+Skilled,11,1040,12950,53
+Skilled,12,1100,13750,55
+Skilled,13,1110,13850,57
+Skilled,14,1170,14550,59
+Skilled,15,1240,15450,61
+Skilled,16,1310,16350,63
+Skilled,17,1390,20850,65
+Skilled,18,1400,20950,67
+Skilled,19,1480,22100,69
+Skilled,20,1570,23400,71
+Skilled,21,1660,24800,73
+Skilled,22,1760,26300,75
+Skilled,23,1770,26400,77
+Skilled,24,1830,31950,79
+Skilled,25,1920,33550,81
+Skilled,26,2020,35250,83
+Skilled,27,2120,37000,85
+Skilled,28,2130,37100,87
+Skilled,29,2230,38850,89
+Skilled,30,2340,46600,91
+Skilled,31,2350,46700,92
+Skilled,32,2460,48950,94
+Skilled,33,2580,51400,96
+Skilled,34,2710,53950,98
+Skilled,35,2840,56650,100
+Skilled,36,2850,56750,102
+Skilled,37,2960,66300,104
+Skilled,38,3080,68950,106
+Skilled,39,3200,71700,108
+Skilled,40,3330,74600,110
+Skilled,41,3340,74700,112
+Skilled,42,3460,77550,114
+Skilled,43,3600,89650,116
+Skilled,44,3740,93250,118
+Skilled,45,3890,96950,120
+Skilled,46,3900,97050,122
+Skilled,47,4050,100850,124
+Skilled,48,4210,104850,126
+Skilled,49,4340,118850,128
+Skilled,50,4470,122400,130
+Skilled,51,4480,122500,132
+Skilled,52,4600,126050,134
+Skilled,53,4740,129850,136
+Skilled,54,4880,133750,138
+Skilled,55,5030,150300,140
+Skilled,56,5040,150400,142
+Skilled,57,5180,154800,144
+Skilled,58,5340,159450,146
+Skilled,59,5500,164200,148
+Skilled,60,5660,169150,150
+Headhunter,0,0,0,0
+Headhunter,1,370,3100,38
+Headhunter,2,380,3200,39
+Headhunter,3,410,3500,41
+Headhunter,4,460,3900,43
+Headhunter,5,520,4400,45
+Headhunter,6,530,4500,47
+Headhunter,7,580,4900,49
+Headhunter,8,650,5500,51
+Headhunter,9,690,8650,53
+Headhunter,10,730,9150,55
+Headhunter,11,740,9250,56
+Headhunter,12,780,9700,58
+Headhunter,13,820,10300,60
+Headhunter,14,830,10400,62
+Headhunter,15,870,10900,64
+Headhunter,16,930,13900,66
+Headhunter,17,980,14700,68
+Headhunter,18,1040,15600,70
+Headhunter,19,1050,15700,72
+Headhunter,20,1100,16550,74
+Headhunter,21,1170,17550,75
+Headhunter,22,1180,17650,77
+Headhunter,23,1220,21300,79
+Headhunter,24,1280,22350,81
+Headhunter,25,1340,23500,83
+Headhunter,26,1410,24650,85
+Headhunter,27,1420,24750,87
+Headhunter,28,1480,25900,89
+Headhunter,29,1560,31050,91
+Headhunter,30,1640,32600,93
+Headhunter,31,1650,32700,94
+Headhunter,32,1720,34250,96
+Headhunter,33,1800,35950,98
+Headhunter,34,1890,37750,100
+Headhunter,35,1900,37850,102
+Headhunter,36,1970,44200,104
+Headhunter,37,2050,45950,106
+Headhunter,38,2130,47800,108
+Headhunter,39,2220,49700,110
+Headhunter,40,2230,49800,112
+Headhunter,41,2310,51700,113
+Headhunter,42,2400,59750,115
+Headhunter,43,2410,59850,117
+Headhunter,44,2490,62150,119
+Headhunter,45,2590,64650,121
+Headhunter,46,2700,67200,123
+Headhunter,47,2810,69900,125
+Headhunter,48,2820,70000,127
+Headhunter,49,2890,79200,129
+Headhunter,50,2980,81600,131
+Headhunter,51,2990,81700,132
+Headhunter,52,3070,84050,134
+Headhunter,53,3160,86550,136
+Headhunter,54,3250,89150,138
+Headhunter,55,3350,100200,140
+Headhunter,56,3360,100300,142
+Headhunter,57,3450,103200,144
+Headhunter,58,3560,106300,146
+Headhunter,59,3660,109450,148
+Headhunter,60,3770,112750,150
+Skill Defense,0,0,0,0
+Skill Defense,1,490,4200,42
+Skill Defense,2,550,4700,43
+Skill Defense,3,620,5250,45
+Skill Defense,4,630,5350,47
+Skill Defense,5,700,5900,49
+Skill Defense,6,780,6600,51
+Skill Defense,7,790,6700,52
+Skill Defense,8,830,10350,54
+Skill Defense,9,880,11000,56
+Skill Defense,10,930,11650,58
+Skill Defense,11,990,12350,60
+Skill Defense,12,1000,12450,62
+Skill Defense,13,1050,13100,63
+Skill Defense,14,1110,16650,65
+Skill Defense,15,1120,16750,67
+Skill Defense,16,1180,17650,69
+Skill Defense,17,1250,18750,71
+Skill Defense,18,1330,19850,73
+Skill Defense,19,1340,19950,74
+Skill Defense,20,1410,21050,76
+Skill Defense,21,1460,25550,78
+Skill Defense,22,1540,26850,80
+Skill Defense,23,1550,26950,82
+Skill Defense,24,1610,28200,84
+Skill Defense,25,1700,29600,85
+Skill Defense,26,1710,29700,87
+Skill Defense,27,1780,31050,89
+Skill Defense,28,1870,37300,91
+Skill Defense,29,1960,39150,93
+Skill Defense,30,2060,41100,95
+Skill Defense,31,2070,41200,96
+Skill Defense,32,2170,43150,98
+Skill Defense,33,2270,45350,100
+Skill Defense,34,2280,45450,102
+Skill Defense,35,2360,53050,104
+Skill Defense,36,2460,55150,106
+Skill Defense,37,2470,55250,107
+Skill Defense,38,2560,57350,109
+Skill Defense,39,2660,59650,111
+Skill Defense,40,2770,62050,113
+Skill Defense,41,2880,71700,115
+Skill Defense,42,2890,71800,117
+Skill Defense,43,2990,74600,118
+Skill Defense,44,3110,77550,120
+Skill Defense,45,3120,77650,122
+Skill Defense,46,3240,80650,124
+Skill Defense,47,3370,83900,126
+Skill Defense,48,3470,95050,128
+Skill Defense,49,3480,95150,129
+Skill Defense,50,3570,97900,131
+Skill Defense,51,3680,100850,133
+Skill Defense,52,3790,103850,135
+Skill Defense,53,3800,103950,137
+Skill Defense,54,3910,107000,139
+Skill Defense,55,4020,120200,140
+Skill Defense,56,4030,120300,142
+Skill Defense,57,4140,123850,144
+Skill Defense,58,4270,127550,146
+Skill Defense,59,4400,131350,148
+Skill Defense,60,4530,135300,150
+Hard Head,0,0,0,0
+Hard Head,1,520,4400,46
+Hard Head,2,530,4500,47
+Hard Head,3,580,4900,49
+Hard Head,4,650,5500,51
+Hard Head,5,690,8650,53
+Hard Head,6,700,8750,54
+Hard Head,7,730,9150,56
+Hard Head,8,780,9700,58
+Hard Head,9,820,10300,60
+Hard Head,10,830,10400,61
+Hard Head,11,870,10900,63
+Hard Head,12,930,13900,65
+Hard Head,13,940,14000,67
+Hard Head,14,980,14700,68
+Hard Head,15,1040,15600,70
+Hard Head,16,1050,15700,72
+Hard Head,17,1100,16550,74
+Hard Head,18,1170,17550,75
+Hard Head,19,1180,17650,77
+Hard Head,20,1220,21300,79
+Hard Head,21,1280,22350,81
+Hard Head,22,1340,23500,83
+Hard Head,23,1350,23600,84
+Hard Head,24,1410,24650,86
+Hard Head,25,1480,25900,88
+Hard Head,26,1560,31050,90
+Hard Head,27,1570,31150,91
+Hard Head,28,1640,32600,93
+Hard Head,29,1720,34250,95
+Hard Head,30,1730,34350,97
+Hard Head,31,1800,35950,98
+Hard Head,32,1890,37750,100
+Hard Head,33,1900,37850,102
+Hard Head,34,1970,44200,104
+Hard Head,35,2050,45950,105
+Hard Head,36,2060,46050,107
+Hard Head,37,2130,47800,109
+Hard Head,38,2220,49700,111
+Hard Head,39,2230,49800,112
+Hard Head,40,2310,51700,114
+Hard Head,41,2400,59750,116
+Hard Head,42,2490,62150,118
+Hard Head,43,2590,64650,120
+Hard Head,44,2600,64750,121
+Hard Head,45,2700,67200,123
+Hard Head,46,2810,69900,125
+Hard Head,47,2820,70000,127
+Hard Head,48,2890,79200,128
+Hard Head,49,2980,81600,130
+Hard Head,50,2990,81700,132
+Hard Head,51,3070,84050,134
+Hard Head,52,3160,86550,135
+Hard Head,53,3170,86650,137
+Hard Head,54,3250,89150,139
+Hard Head,55,3350,100200,141
+Hard Head,56,3360,100300,142
+Hard Head,57,3450,103200,144
+Hard Head,58,3560,106300,146
+Hard Head,59,3660,109450,148
+Hard Head,60,3770,112750,150
+Weapons Expert,0,0,0,0
+Weapons Expert,1,650,5500,50
+Weapons Expert,2,660,5600,51
+Weapons Expert,3,690,8650,53
+Weapons Expert,4,730,9150,55
+Weapons Expert,5,740,9250,56
+Weapons Expert,6,780,9700,58
+Weapons Expert,7,820,10300,60
+Weapons Expert,8,830,10400,61
+Weapons Expert,9,870,10900,63
+Weapons Expert,10,930,13900,65
+Weapons Expert,11,940,14000,66
+Weapons Expert,12,980,14700,68
+Weapons Expert,13,1040,15600,70
+Weapons Expert,14,1050,15700,72
+Weapons Expert,15,1100,16550,73
+Weapons Expert,16,1170,17550,75
+Weapons Expert,17,1180,17650,77
+Weapons Expert,18,1220,21300,78
+Weapons Expert,19,1280,22350,80
+Weapons Expert,20,1290,22450,82
+Weapons Expert,21,1340,23500,83
+Weapons Expert,22,1410,24650,85
+Weapons Expert,23,1420,24750,87
+Weapons Expert,24,1480,25900,88
+Weapons Expert,25,1560,31050,90
+Weapons Expert,26,1570,31150,92
+Weapons Expert,27,1640,32600,94
+Weapons Expert,28,1720,34250,95
+Weapons Expert,29,1730,34350,97
+Weapons Expert,30,1800,35950,99
+Weapons Expert,31,1890,37750,100
+Weapons Expert,32,1900,37850,102
+Weapons Expert,33,1970,44200,104
+Weapons Expert,34,2050,45950,105
+Weapons Expert,35,2060,46050,107
+Weapons Expert,36,2130,47800,109
+Weapons Expert,37,2220,49700,111
+Weapons Expert,38,2230,49800,112
+Weapons Expert,39,2310,51700,114
+Weapons Expert,40,2400,59750,116
+Weapons Expert,41,2410,59850,117
+Weapons Expert,42,2490,62150,119
+Weapons Expert,43,2590,64650,121
+Weapons Expert,44,2600,64750,122
+Weapons Expert,45,2700,67200,124
+Weapons Expert,46,2810,69900,126
+Weapons Expert,47,2820,70000,127
+Weapons Expert,48,2890,79200,129
+Weapons Expert,49,2980,81600,131
+Weapons Expert,50,3070,84050,133
+Weapons Expert,51,3080,84150,134
+Weapons Expert,52,3160,86550,136
+Weapons Expert,53,3250,89150,138
+Weapons Expert,54,3260,89250,139
+Weapons Expert,55,3350,100200,141
+Weapons Expert,56,3450,103200,143
+Weapons Expert,57,3460,103300,144
+Weapons Expert,58,3560,106300,146
+Weapons Expert,59,3660,109450,148
+Weapons Expert,60,3770,112750,150
+Weapons Defense,0,0,0,0
+Weapons Defense,1,830,10350,54
+Weapons Defense,2,880,11000,55
+Weapons Defense,3,890,11100,57
+Weapons Defense,4,930,11650,58
+Weapons Defense,5,990,12350,60
+Weapons Defense,6,1000,12450,62
+Weapons Defense,7,1050,13100,63
+Weapons Defense,8,1110,16650,65
+Weapons Defense,9,1120,16750,67
+Weapons Defense,10,1180,17650,68
+Weapons Defense,11,1250,18750,70
+Weapons Defense,12,1260,18850,71
+Weapons Defense,13,1330,19850,73
+Weapons Defense,14,1410,21050,75
+Weapons Defense,15,1420,21150,76
+Weapons Defense,16,1460,25550,78
+Weapons Defense,17,1540,26850,80
+Weapons Defense,18,1550,26950,81
+Weapons Defense,19,1610,28200,83
+Weapons Defense,20,1620,28300,84
+Weapons Defense,21,1700,29600,86
+Weapons Defense,22,1780,31050,88
+Weapons Defense,23,1790,31150,89
+Weapons Defense,24,1870,37300,91
+Weapons Defense,25,1960,39150,93
+Weapons Defense,26,1970,39250,94
+Weapons Defense,27,2060,41100,96
+Weapons Defense,28,2070,41200,97
+Weapons Defense,29,2170,43150,99
+Weapons Defense,30,2270,45350,101
+Weapons Defense,31,2280,45450,102
+Weapons Defense,32,2360,53050,104
+Weapons Defense,33,2460,55150,106
+Weapons Defense,34,2470,55250,107
+Weapons Defense,35,2560,57350,109
+Weapons Defense,36,2660,59650,110
+Weapons Defense,37,2670,59750,112
+Weapons Defense,38,2770,62050,114
+Weapons Defense,39,2880,71700,115
+Weapons Defense,40,2890,71800,117
+Weapons Defense,41,2990,74600,119
+Weapons Defense,42,3110,77550,120
+Weapons Defense,43,3120,77650,122
+Weapons Defense,44,3240,80650,123
+Weapons Defense,45,3370,83900,125
+Weapons Defense,46,3380,84000,127
+Weapons Defense,47,3470,95050,128
+Weapons Defense,48,3570,97900,130
+Weapons Defense,49,3580,98000,132
+Weapons Defense,50,3680,100850,133
+Weapons Defense,51,3790,103850,135
+Weapons Defense,52,3800,103950,136
+Weapons Defense,53,3910,107000,138
+Weapons Defense,54,4020,120200,140
+Weapons Defense,55,4030,120300,141
+Weapons Defense,56,4140,123850,143
+Weapons Defense,57,4270,127550,145
+Weapons Defense,58,4280,127650,146
+Weapons Defense,59,4400,131350,148
+Weapons Defense,60,4530,135300,150

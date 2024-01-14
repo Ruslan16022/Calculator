@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Your name">
+    <meta name="description" content="A skill calculator for a game">
+    <meta name="keywords" content="skill, calculator, game">
+    <link rel="stylesheet" href="styles.css">
+    <script src="lang.js" defer></script>
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+    <div id="language-switcher">
+        <p data-lang="Выберите язык / Choose language:">Выберите язык / Choose language:</p>
+        <button id="ru-button">Русский</button>
+        <button id="en-button">English</button>
+    </div>
+    <h1 data-lang="Калькулятор навыков" id="title">Калькулятор навыков</h1>
+    <div id="tabs">
+        <button data-lang="Навыки" id="tab1" class="active" onclick="switchTab(1)">Навыки</button>
+        <button data-lang="Ресурсы" id="tab2" onclick="switchTab(2)">Ресурсы</button>
+        <button data-lang="Другое" id="tab3" onclick="switchTab(3)">Другое</button>
+    </div>
+    <div id="content">
+        <div id="tab1-content" class="show">
+            <div>
+                <label for="character-level" data-lang="Введите уровень персонажа:" id="char-level-label">Введите уровень персонажа:</label>
+                <input id="character-level" type="number" min="1" max="110" value="1">
+            </div>
+            <div>
+                <label for="skill-name" data-lang="Выберите навык из списка:" id="skill-name-label">Выберите навык из списка:</label>
+                <select id="skill-name">
+                    <option value="" disabled selected data-lang="Выберите навык">Выберите навык</option>
+                    <!-- Add options here -->
+                </select>
+            </div>
+            <div>
+                <label for="skill-level" data-lang="Введите уровень навыка:" id="skill-level-label">Введите уровень навыка:</label>
+                <input id="skill-level" type="number" min="1" max="99" value="">
+            </div>
+            <button data-lang="Добавить" id="add-button" onclick="addSkill()">Добавить</button>
+            <div>
+                <p data-lang="Добавленные навыки:" id="added-skills-label">Добавленные навыки:</p>
+                <table id="added-skills">
+                    <tr>
+                        <th data-lang="Название навыка" id="skill-name-header">Название навыка</th>
+                        <th data-lang="Уровень навыка" id="skill-level-header">Уровень навыка</th>
+                    </tr>
+                </table>
+            </div>
+            <button data-lang="Рассчитать" id="calculate-button" onclick="calculateResult()">Рассчитать</button>
+            <div>
+                <p data-lang="Уровень персонажа:" id="char-level-result-label">Уровень персонажа: <span id="char-level-result"></span></p>
+            </div>
+            <table id="result">
+                <tr>
+                    <th data-lang="Название навыка" id="skill-name-result-header">Название навыка</th>
+                    <th data-lang="Максимальный уровень навыка " id="skill-max-level-result-header">Максимальный уровень навыка </th>
+                    <th data-lang="Количество серебра" id="silver-result-header">Количество серебра</th>
+                    <th data-lang="Количество лагерных очков" id="camp-points-result-header">Количество лагерных очков</th>
+                </tr>
+            </table>    
+        </div>
+        <div id="tab2-content" class="hide">
+            <!-- Add content for tab 2 here -->
+        </div>
+        <div id="tab3-content" class="hide">
+            <!-- Add content for tab 3 here -->
+        </div>
+    </div>
+</body>
+</html>
